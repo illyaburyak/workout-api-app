@@ -1,0 +1,22 @@
+{
+  "name": "workout-api-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illyaburyak/workout-api-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illyaburyak/workout-api-app/issues"
+  },
+  "homepage": "https://github.com/illyaburyak/workout-api-app#readme",
+  "dependencies": {
+    "leaflet": "^1.7.1"
+  }
+}
